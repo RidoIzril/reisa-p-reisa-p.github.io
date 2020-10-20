@@ -2,7 +2,7 @@
 layout: post
 title: Software Documentation Portfolio
 subtitle: Example of my work on Documentation of some software development life cycle
-tags: [portfolio], [userguide]
+tags: [portfolio, userguide]
 comments: true
 ---
 
