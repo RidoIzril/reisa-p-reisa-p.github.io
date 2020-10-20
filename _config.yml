@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Reisa Portfolio website
+title: Reisa Permatasari on GitHub
 
 # Your name to show in the footer
 author: Reisa Permatasari
@@ -17,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Showcase:
     - Data on Kaggle: "https://www.kaggle.com/reisapermatasari"
-    - UI Wireframe on Mockflow : https://wireframepro.mockflow.com/view/M87affb3ce5a73b042842f17561384c591598885077896"
+    - UI Wireframe on Mockflow : "https://wireframepro.mockflow.com/view/M87affb3ce5a73b042842f17561384c591598885077896"
     - BI on DataStudio : "https://datastudio.google.com/s/iup5JhaDXc4"
   Linked In: "https://www.linkedin.com/in/reisa14/"
 
